@@ -5,6 +5,7 @@ namespace GradeBook
 {
     class Program
     {
+        // Static Main
         static void Main(string[] args)
         {
 

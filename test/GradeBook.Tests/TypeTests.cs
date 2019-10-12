@@ -67,7 +67,7 @@ namespace GradeBook.Tests
         }
 
 
-
+        [Fact]
         public void CanSetNameFromReference()
         {
             // Do the Triple As: Arrange, Act & Assert

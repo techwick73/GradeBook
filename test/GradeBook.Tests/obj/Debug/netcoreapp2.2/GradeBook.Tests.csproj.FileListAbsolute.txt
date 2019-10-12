@@ -7,7 +7,6 @@ C:\Users\techw\projects\csharp\gradebook\test\GradeBook.Tests\bin\Debug\netcorea
 C:\Users\techw\projects\csharp\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.Tests.dll
 C:\Users\techw\projects\csharp\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.Tests.pdb
 C:\Users\techw\projects\csharp\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.csprojAssemblyReference.cache
-C:\Users\techw\projects\csharp\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.csproj.CoreCompileInputs.cache
 C:\Users\techw\projects\csharp\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.AssemblyInfoInputs.cache
 C:\Users\techw\projects\csharp\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.AssemblyInfo.cs
 C:\Users\techw\projects\csharp\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.dll
